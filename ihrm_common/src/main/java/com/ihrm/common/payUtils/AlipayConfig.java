@@ -1,0 +1,20 @@
+package com.ihrm.common.payUtils;
+
+public class AlipayConfig {
+
+	public static String app_id = "2016101200671216";//�ں�̨��ȡ���������ã�
+
+	public static String merchant_private_key = "MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDuVxaIN+ZdRBfnMZFwJEtp2GfDXzsMkJKL3c1vtWTNIRNBtVX6lbvdNdyLyKygu2CKHRnLq1u/ppKfFaNfA68JYJ5u4LtCO6vJdu6A4+n4Ggto/Cfqup+Ezm515pfUBd11t7T9tVhQe0+xljkVY87Jz1ImhYmOsH4OvLLruVpn/Ujh0yUssPsBHa1DWNsmBCGaDlgC2FzIYnLRqDUDXt0WOgXwWCtWnLkj8i1j1GYqYaRqLIEee4+M94/mKuIK1U3udwCtY0m9Hu7Q6BDtiO6mzFNfIiGNS3gbvUCmsB+Mi88mf0Xs9Cg+m52wBe7BgOCh33D48SWhkHu39ZcRHIqHAgMBAAECggEBALeDTLETwYccb/8uVlpvR7W2z6ZJw/CXvI5++LhDhdq/1dDpK8tm0SCxYSAsImcb/2g4oe0FAv7c5dYh1gnJj1N8FmEvHmAQC+Ryc4/AbR0ACLsMNDvy9/JM9BZJt6uj3HHQQkZ7BAXr/F+zWD6U+9q9i/ZnKZQ5ZsY4GtePfwHDMoqCNOVNYD2p6WAf4Ust7sgpf6V2Yf6a7BNNlr9b72839PKWE/KwqRDgSv+Jc+iyJCH0DOXwlAQYO5VCARJRfty0/5s14FuwzKNx6PZJ/UtnSgZSva80Jpoc9HqtlK1Q9nAOTQjUDV2IidZfn/KIGQ6BIrOLCTW30SMuiH3WxkECgYEA/GGCzE4/7b9zs8uFsVleFQ5JZsWzpXxScB27Xftru/IixG0pV2Q1FWEsOVyINXVNehngPm7mPSPU51FppB+UVuAkyaBTj2vM3aHaCfqwrHxI9BUXGYC9feTz6ogrn9CLZNEf2TNZ3w/OuZtTT0DDU9DTUk21D5ZjB9V1DSzjC2cCgYEA8cIIn/pMHGJ4w5XNHnNHDZXjk1A39iTwMWKwdpgprtH1WxQnv4DC8uaB2dTL5CbQrVL7Dyg8xN1CnxjDIzjV8cipUhsADcENb1OPFoHWw5O0GnupEUMl/hQWffij/JZDg9yi6x5hwQJo/gAaah8i7OKcIJfgagg62MLCtycmM+ECgYBwYAa6a7khZlbhXqTHw/AVVggu36bO751RWJu+DB37UKRUa/q1c+QDAgKMA/yOOQ3naTAk/II+BP9ehCySrJEDYchfkqjCOpC8ur14JgyWsLxXGjDv5Rf6v4AwFLO/9D6tBES3FJtWrBYzJMsihcazQk9l3T3ak+7CZTQ6SptJzwKBgQDWpu5bhLRBW5lYJ1DJYZdL07MNYGNftGpjnvmJQw93fko4RQwJt7zgSJQwogUqnOAZlJz/Vz2lmcMGWckhI9yp4f2cvgZtL+TK3MkmNcBHRITcIsH5ZsJ79sAFt1d69LwbfzJUSlSHN6mbJOJPKTgsVgRD2DXUT1xYi4yxbBw6YQKBgQCDVSdB5z8RvQDEOYrbFQqFNlga3CS1YJvG91MsUdgdITGfQ+6NKH0JX/plkRKHqSK98jWLXqh/Eq8vLm0kDT6FQJys3A2C5PS9sR8ayC1yDr1LNJ7EOQEJPVRrekvPNBzpQXXDietpm0ekjOxQeBsFQTFAMSBMhlCMaajgrWJSYA==";//�̳̲鿴��ȡ��ʽ���������ã�
+
+	public static String alipay_public_key = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtnk8jFJSqDpiotF1arrMdj3A6eIOlPAUi9/hJBvHiqEqfpVIlyPlGQiD1cS3LEbg7IyUdIlok6HynPicGxzsB9Zgiz8oU3qR9e0LK4ouZHRFL/LFl1w039Jk7tMHAnRrMUZkNgkM8vc3bE6TosyN1HB4ho8ECi7LUKNuRIgAmTNucRIHGODMsNH341IB4M9kEX6Qp2rMcP7AkSsrFZIb18zzKsgtDuMq44hbCNagy+PZJA25hJNGlADUgadEAy3ndN1diAZFy/KuLqmwGeA2BFnAQ4DwXvhTQSJmOKUsCN9ebst/db1YRWVmfK7p7XsAD6zgww+CXHp3H08unqgdfwIDAQAB# MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjrEVFMOSiNJXaRNKicQuQdsREraftDA9Tua3WNZwcpeXeh8Wrt+V9JilLqSa7N7sVqwpvv8zWChgXhX/A96hEg97Oxe6GKUmzaZRNh0cZZ88vpkn5tlgL4mH/dhSr3Ip00kvM4rHq9PwuT4k7z1DpZAf1eghK8Q5BgxL88d0X07m9X96Ijd0yMkXArzD7jg+noqfbztEKoH3kPMRJC2w4ByVdweWUT2PwrlATpZZtYLmtDvUKG/sOkNAIKEMg3Rut1oKWpjyYanzDgS7Cg3awr1KPTl9rHCazk15aNYowmYtVabKwbGVToCAGK+qQ1gT3ELhkGnf3+h53fukNqRH+wIDAQAB";//�̳̲鿴��ȡ��ʽ���������ã�
+
+	public static String notify_url = "http://localhost:8080/alipay/alipayNotifyNotice.action";
+	
+	public static String return_url = "http://localhost:8080/alipay/alipayReturnNotice.action";
+	
+	public static String sign_type = "RSA2";
+	
+	public static String charset = "utf-8";
+	
+	public static String gatewayUrl = "https://openapi.alipaydev.com/gateway.do";//ע�⣺ɳ����Ի�������ʽ����Ϊ��https://openapi.alipay.com/gateway.do
+}
