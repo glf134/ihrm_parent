@@ -1,4 +1,4 @@
-package com.ihrm.demo1;
+package com.ihrm.demo2;
 
 public class demo2 {
 }
