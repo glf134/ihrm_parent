@@ -8,4 +8,10 @@ public class demo1 {
     //新增一行测试
     //1111222
     //新增一行测试
+    public void dd1(){
+
+    }
+    public void dd2(){
+
+    }
 }
